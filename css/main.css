@@ -1,5 +1,5 @@
 body {
-	background-color: rgb(34, 193, 214);
+	background-color: rgb(255, 255, 255);
 }
 h1 {
 	color: tomato;
@@ -14,14 +14,30 @@ p {
 	color: rgba(0, 0, 0, 0.527);
 	text-align: center;
 }
-div {
+#d2 {
 	border: 2px solid;
-	padding: 40px;
-
+	padding: 10px;
 	align-items: center;
-	background-color: rgb(66, 218, 185);
+	background-color: rgb(165, 211, 201);
+	text-align: center;
+	text-size-adjust: 5px;
 }
 
 #ingr {
-	color: rgb(116, 17, 63);
+	color: rgb(112, 14, 60);
+	font-size: xx-large;
+}
+
+#d1 {
+	border: 6px solid;
+	border-color: rgb(0, 10, 10);
+	padding: 20px;
+	align-items: center;
+	background-color: rgb(218, 129, 129);
+}
+#t1 {
+	
+	align-items: center;
+	background-color: rgb(218, 129, 129);
+	font-size: 90px;
 }
